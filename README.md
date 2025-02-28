@@ -17,8 +17,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Young4424&theme=dark)](https://git.io/streak-stats)
 
 
+## 📌 대표 프로젝트
+### Recipic - 이미지 기반 레시피 추천 서비스
 <a href="https://github.com/Young4424/Recipic_final_presentation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Young4424&repo=Recipic_final_presentation&theme=radical" />
 </a>
 
+Recipic은 사용자가 가지고 있는 식재료 이미지를 통해 맞춤형 레시피를 추천해주는 서비스입니다. 
+이미지 인식 AI와 레시피 데이터베이스를 활용하여 사용자 경험을 개선했습니다.
 
+**주요 기술:** Python, TensorFlow, React, Node.js
+**역할:** 이미지 인식 모델 개발 및 백엔드 구현
