@@ -22,18 +22,3 @@
 </a>
 
 
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Young4424&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 👨‍💻 Coding Activity
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
-
-<!-- 사용자 지정 그래프 -->
-![Snake animation](https://github.com/Young4424/Young4424/blob/output/github-contribution-grid-snake.svg)
-
----
-⭐️ From [Young4424](https://github.com/Young4424)
