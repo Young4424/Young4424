@@ -8,7 +8,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Young4424&show_icons=true&theme=radical)
 
 ## 📈 Baekjoon Online Judge
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladydgnj)](https://solved.ac/rladydgnj)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=rladydgnj)](https://solved.ac/rladydgnj)
 
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Young4424&layout=compact&theme=radical)
