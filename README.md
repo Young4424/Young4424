@@ -16,9 +16,9 @@
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Young4424&theme=dark)](https://git.io/streak-stats)
 
-## 📌 Pinned Repositories
+
 <a href="https://github.com/Young4424/Recipic_final_presentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Young4424&Recipic_final_presentation&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Young4424&repo=Recipic_final_presentation&theme=radical" />
 </a>
 
 
