@@ -2,8 +2,6 @@
 ## 🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 <!-- 더 많은 기술 스택 배지는 https://github.com/Ileriayo/markdown-badges 참고 -->
 
 ## 📊 GitHub Stats
@@ -20,7 +18,7 @@
 
 ## 📌 Pinned Repositories
 <a href="https://github.com/Young4424/Recipic_final_presentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Young4424&repo=repo-name&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Young4424&Recipic_final_presentation&theme=radical" />
 </a>
 
 
@@ -38,4 +36,4 @@
 ![Snake animation](https://github.com/Young4424/Young4424/blob/output/github-contribution-grid-snake.svg)
 
 ---
-⭐️ From [your-github-username](https://github.com/Young4424)
+⭐️ From [Young4424](https://github.com/Young4424)
