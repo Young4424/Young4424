@@ -15,8 +15,9 @@
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Young4424&layout=compact&theme=radical)
 
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Young4424&theme=dark)](https://git.io/streak-stats)
+
+## 📈 Solved AC Grass
+<img src="http://mazandi.herokuapp.com/api?handle={rladydgnj}&theme=warm"/>
 
 
 ## 📌 대표 프로젝트
