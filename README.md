@@ -17,7 +17,7 @@
 
 
 ## 📈 Solved AC Grass
-<img src="http://mazandi.herokuapp.com/api?handle={rladydgnj}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=rladydgnj&theme=warm"/>
 
 
 ## 📌 대표 프로젝트
