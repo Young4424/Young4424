@@ -54,7 +54,7 @@
 - 🧠 TensorFlow
 - ⚛️ React
 - 🟢 Node.js
-- ☁️ Azure Cloud Services
+- ☁️ Google Cloud Services
 
 **담당 역할:** 이미지 인식 모델 개발 및 백엔드 서비스 구현. Azure를 활용한 클라우드 배포 및 확장성 관리.
 
