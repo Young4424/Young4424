@@ -1,9 +1,6 @@
 # 👋 안녕하세요, 제 이름은 Young Hwi Kim 입니다.
 
-![image_fx_](https://github.com/user-attachments/assets/693a9e76-2b69-4ccb-9074-09f26aab6f17)
-
-
-## 💻 차세대 Full-Stack Developer 지망생 | AI 학습자 | 문제 해결사
+## 💻 AI, 풀스택 개발자 지망생 | 차기 알고리즘 골드 티어 목표🥇
 
 > *"인공지능 관련 공부는 무엇이든 다 최선을 다해 공부하려고 노력하고 있습니다."*
 
