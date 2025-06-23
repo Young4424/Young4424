@@ -65,7 +65,9 @@
 
 ### 🤖 서비 - 인공지능 비서
 <div align="center">
-  
+
+![서비 발표자료 최종_page-0001](https://github.com/user-attachments/assets/a70f67e4-8f87-4f35-b8c0-a94a34a2845f)
+
 [![Backend Repository](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-backend&theme=tokyonight&hide_border=true)](https://github.com/wasseobi/seobi-backend)
 [![Frontend Repository](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-frontend&theme=tokyonight&hide_border=true)](https://github.com/wasseobi/seobi-frontend)
 
