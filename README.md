@@ -38,7 +38,7 @@
   
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0072C6?style=for-the-badge&logo=OpenAI&logoColor=white)
-
+![Azure AI Fundamentals](https://img.shields.io/badge/Azure%20AI%20Fundamentals-Certified-0078D4?style=for-the-badge&logo=microsoft)
 </div>
 
 ### Cloud & Database
