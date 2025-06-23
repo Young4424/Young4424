@@ -92,7 +92,10 @@
 
 ### 📸 Recipic - Image-Based Recipe Recommendation Service
 <div align="center">
-  
+
+![423236299-1d3c16a6-1fb7-4fde-bd7b-66b8c37ca4c2](https://github.com/user-attachments/assets/7ef691c3-1696-47eb-8ac5-1685cb88ff53)
+
+
 <a href="https://github.com/Young4424/Recipic_final_presentation">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Young4424&repo=Recipic_final_presentation&theme=tokyonight&hide_border=true" />
 </a>
