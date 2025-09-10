@@ -110,7 +110,22 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 <br>
 
+### 📸 **식재료 인식 및 레시피 추천 (Recipic)**
+**Team Leader, Presenter** | 2023.08 ~ 2024.06 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Young4424&repo=Recipic_final_presentation&theme=graywhite)](https://github.com/Young4424/Recipic_final_presentation)
+
+- 2학기 동안 진행한 졸업 작품 캡스톤 디자인 프로젝트입니다.   
+- 사용자의 카메라로 식재료를 인식하고, 이를 기반으로 레시피를 추천하는 시스템을 개발했습니다.   
+- 실시간 객체 인식을 위해 YOLO v5 모델을 사용했으며, 스마트폰에서의 효율적인 추론을 위해 TensorFlow Lite 형식으로 변환했습니다.   
+- 13가지 식재료를 대상으로 92%의 테스트 정확도를 달성하여, 졸업 프로젝트에서 가장 높은 성능을 기록하였습니다.
+
+#### 🛠 **Tech Stack**
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ 
 
 ### 📈 **B2B 영업 기회 예측 모델 개발**
 **Team Member** | 2024.01 ~ 2024.02
