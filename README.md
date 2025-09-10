@@ -37,7 +37,8 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 ### 🎓 학력 및 교육 (Education)
 
 #### 🏫 **Hongik University** (2018.03 ~ 2025.02)
-![Computer Engineering & Business Administration](https://img.shields.io/badge/컴퓨터공학%20&%20경영학-CC0000?style=flat-square)
+![Computer Science](https://img.shields.io/badge/Computer%20Science-0066CC?style=flat-square&logoColor=white)
+![Business Administration](https://img.shields.io/badge/Business%20Administration-FF6B35?style=flat-square&logoColor=white)
 
 #### 🤖 **Microsoft AI School 6기** (2024.12 ~ 2025.06)
 - Microsoft와 정부 연계 AI 전문가 양성 과정
