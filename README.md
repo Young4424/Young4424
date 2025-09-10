@@ -76,7 +76,7 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 ### 📜 **Azure AI 기반 한국사 학습 플랫폼**
 **Team Leader, Presenter** | 2025.03 ~ 2025.04
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ms-project2nd&repo=.github&theme=graywhite)](https://github.com/ms-project2nd)
+[![ms-project2nd 프로필 가기](https://img.shields.io/badge/Visit-ms--project2nd-blue?style=for-the-badge&logo=github)](https://github.com/ms-project2nd)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ms-project2nd&repo=Korean-History-Study&theme=graywhite&cache_buster=5)](https://github.com/ms-project2nd/Korean-History-Study)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ms-project2nd&repo=korean_history_api&theme=graywhite&cache_buster=5)](https://github.com/ms-project2nd/korean_history_api)
