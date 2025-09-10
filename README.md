@@ -67,7 +67,7 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 - 이를 통해 일일 브리핑, 주간 보고서 등 **사용자 목표에 따른 예약 작업을 자율적으로 수행하는 에이전트**를 구현했습니다.
 
 #### 🛠 **Tech Stack**
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=flat-square&logo=LangGraph&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -122,7 +122,7 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 #### 🛠 **Tech Stack**
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
