@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-AI 모델 개발과 백엔드 시스템 설계 역량을 바탕으로, 복잡한 문제를 해결하는 AI 시스템 연구에 기여하고 싶은 개발자 김영휘입니다.<br /> 
+AI 모델 개발과 백엔드 시스템 설계 역량을 바탕으로, 복잡한 문제를 해결하는 AI 시스템 연구에 기여하고 싶은 예비 개발자 김용휘입니다.<br /> 
 LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구축 경험을 통해 실질적인 AI 시스템 구현 역량을 길렀습니다.
 </div>
 
@@ -39,11 +39,15 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 #### 🏫 **Hongik University** (2018.03 ~ 2025.02)
 ![Computer Engineering & Business Administration](https://img.shields.io/badge/컴퓨터공학%20&%20경영학-CC0000?style=flat-square)
 
-#### 🤖 **Microsoft AI School 6기** (2024.12 ~ 2025.06, 예정)
+#### 🤖 **Microsoft AI School 6기** (2024.12 ~ 2025.06)
 - Microsoft와 정부 연계 AI 전문가 양성 과정
 
 #### 📊 **LG Aimers 4기** (2023.12 ~ 2024.02)
 - LG AI 연구원 주관 청년 AI 인재 양성 프로그램
+
+#### 📜 **데이터 사이언스를 위한 수학 여름 캠프** (2025.07 ~ 2025.08)
+- 서울대학교에서 주관한 선형 대수학과 확률과 통계 수업 프로그램
+
 
 ---
 
