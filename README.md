@@ -55,6 +55,8 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 ### 🤖 **자율 AI 에이전트 플랫폼, 서비 (Seobi)**
 **Team Member** | 2025.04 ~ 2025.06
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-backend&theme=graywhite)](https://github.com/wasseobi)
+
 - 기존의 수동적 챗봇 한계를 넘어, 능동적으로 사용자 맞춤형 서비스를 제공하는 AI 에이전트 플랫폼을 개발했습니다.
 - **LangGraph** 아키텍처를 도입하여 상태 기반의 복잡하고 순환적인 추론이 가능한 핵심 시스템을 설계했습니다.
 - 이를 통해 일일 브리핑, 주간 보고서 등 **사용자 목표에 따른 예약 작업을 자율적으로 수행하는 에이전트**를 구현했습니다.
@@ -69,6 +71,8 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 ### 📜 **Azure AI 기반 한국사 학습 플랫폼**
 **Team Leader, Presenter** | 2025.03 ~ 2025.04
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ms-project2nd&repo=[레포지토리이름]&theme=graywhite)](https://github.com/ms-project2nd)
+
 - 한국사 능력 검정시험 수험생을 위한 AI 기반 종합 학습 솔루션을 기획하고 개발을 리드했습니다.
 - **RAG 모델**을 활용하여 사용자의 필기 노트를 AI가 요약하고, **객관식 문제를 자동 생성**하는 학습 사이클을 구현했습니다.
 - AI 요약(ROUGE-L F1: 0.68), 문제 생성(정확도 70%) 등 **준수한 AI 성능을 확보**하여 프로젝트를 성공적으로 이끌었습니다.
@@ -82,6 +86,8 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 ### 🩹 **Azure AI 활용 상처 피드백 서비스**
 **Team Leader, Presenter** | 2025.01 ~ 2025.02
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=msproject-1st-team&repo=[레포지토리이름]&theme=graywhite)](https://github.com/msproject-1st-team)
+
 - 사용자가 상처 이미지를 업로드하면 AI가 분석하여 피드백을 제공하는 서비스를 개발했습니다.
 - **Azure Custom Vision API**를 활용하여 화상, 타박상 등 상처의 종류와 심각도를 판별하는 모델을 구현했습니다.
 - 밝기 조절, 자르기 등 **데이터 증강 기법을 적용하여 모델의 정밀도를 93.5%에서 99.4%까지 향상**시키는 성과를 거두었습니다.
