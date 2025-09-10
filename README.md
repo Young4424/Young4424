@@ -55,7 +55,11 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 ### 🤖 **자율 AI 에이전트 플랫폼, 서비 (Seobi)**
 **Team Member** | 2025.04 ~ 2025.06
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-backend&theme=graywhite)](https://github.com/wasseobi)
+
+
 
 - 기존의 수동적 챗봇 한계를 넘어, 능동적으로 사용자 맞춤형 서비스를 제공하는 AI 에이전트 플랫폼을 개발했습니다.
 - **LangGraph** 아키텍처를 도입하여 상태 기반의 복잡하고 순환적인 추론이 가능한 핵심 시스템을 설계했습니다.
@@ -71,6 +75,8 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 ### 📜 **Azure AI 기반 한국사 학습 플랫폼**
 **Team Leader, Presenter** | 2025.03 ~ 2025.04
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ms-project2nd&repo=.github&theme=graywhite)](https://github.com/ms-project2nd)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ms-project2nd&repo=Korean-History-Study&theme=graywhite&cache_buster=5)](https://github.com/ms-project2nd/Korean-History-Study)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ms-project2nd&repo=korean_history_api&theme=graywhite&cache_buster=5)](https://github.com/ms-project2nd/korean_history_api)
