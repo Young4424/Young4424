@@ -95,7 +95,8 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 ### 🩹 **Azure AI 활용 상처 피드백 서비스**
 **Team Leader, Presenter** | 2025.01 ~ 2025.02
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=msproject-1st-team&repo=.github&theme=graywhite)](https://github.com/msproject-1st-team)
+
+[![msproject-1st-team 프로필 가기](https://img.shields.io/badge/Visit-msproject--1st--team-blue?style=for-the-badge&logo=github)](https://github.com/msproject-1st-team)
 
 - 사용자가 상처 이미지를 업로드하면 AI가 분석하여 피드백을 제공하는 서비스를 개발했습니다.
 - **Azure Custom Vision API**를 활용하여 화상, 타박상 등 상처의 종류와 심각도를 판별하는 모델을 구현했습니다.
