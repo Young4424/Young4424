@@ -10,6 +10,13 @@ AI 모델 개발과 백엔드 시스템 설계 역량을 바탕으로, 복잡한
 LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구축 경험을 통해 실질적인 AI 시스템 구현 역량을 길렀습니다.
 </div>
 
+
+### 📬 Contact
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rladydgnj@gmail.com)
+
+
+
+
 <br>
 
 ---
@@ -48,9 +55,16 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 #### 📜 **데이터 사이언스를 위한 수학 여름 캠프** (2025.07 ~ 2025.08)
 - 서울대학교에서 주관한 선형대수와 확률과 통계 수업 프로그램
+- 
 
+### 🔥 Recent Activity
+- 🔭 현재 **LangGraph 기반 멀티 에이전트 시스템** 연구 중
+- 🌱 **MLOps와 LLM 파인튜닝** 학습 중
+- 👯 **오픈소스 AI 프로젝트** 기여 희망
 
 ---
+
+
 
 ### 🚀 주요 프로젝트 (Projects)
 
