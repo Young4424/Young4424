@@ -55,7 +55,7 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 ### 🤖 **자율 AI 에이전트 플랫폼, 서비 (Seobi)**
 **Team Member** | 2025.04 ~ 2025.06
-
+[![wasseobi 프로필 가기](https://img.shields.io/badge/Visit-wasseobi-blue?style=for-the-badge&logo=github)](https://github.com/wasseobi)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-backend&theme=graywhite)](https://github.com/wasseobi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-frontend&theme=graywhite)](https://github.com/wasseobi)
