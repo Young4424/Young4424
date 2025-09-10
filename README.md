@@ -71,6 +71,7 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 ### 📜 **Azure AI 기반 한국사 학습 플랫폼**
 **Team Leader, Presenter** | 2025.03 ~ 2025.04
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ms-project2nd&repo=KOR-Hist-Recommender&theme=graywhite)](https://github.com/ms-project2nd/KOR-Hist-Recommender)
 
 - 한국사 능력 검정시험 수험생을 위한 AI 기반 종합 학습 솔루션을 기획하고 개발을 리드했습니다.
