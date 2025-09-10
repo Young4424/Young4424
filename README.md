@@ -121,10 +121,9 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 - 13가지 식재료를 대상으로 92%의 테스트 정확도를 달성하여, 졸업 프로젝트에서 가장 높은 성능을 기록하였습니다.
 
 #### 🛠 **Tech Stack**
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
  
 
 ### 📈 **B2B 영업 기회 예측 모델 개발**
