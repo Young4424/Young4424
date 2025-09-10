@@ -58,7 +58,7 @@ LangGraph를 이용한 자율 에이전트 설계 및 Azure 기반 서비스 구
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-backend&theme=graywhite)](https://github.com/wasseobi)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wasseobi&repo=seobi-frontend&theme=graywhite)](https://github.com/wasseobi)
 
 
 - 기존의 수동적 챗봇 한계를 넘어, 능동적으로 사용자 맞춤형 서비스를 제공하는 AI 에이전트 플랫폼을 개발했습니다.
